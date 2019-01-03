@@ -1,4 +1,3 @@
 # CAITTS
-City Artificial Intelligence TTS for the game DYINGWORLD
 
-DISCORD.JS needed
+This project is more updated now, so this repo contains the old version written using Discord.js lib.
